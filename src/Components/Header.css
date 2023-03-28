@@ -1,0 +1,19 @@
+.header {
+  display: flex;
+  justify-content: space-between;
+  padding: 1% 2%;
+}
+
+.create {
+  color: rgb(52, 117, 214);
+}
+
+.icon {
+  font-size: 35px;
+  color: rgb(52, 117, 214);
+}
+
+.create:hover {
+  text-decoration: underline;
+  cursor: pointer;
+}
